@@ -1,0 +1,494 @@
+<site version="3.0"><css/><components/><page id="p7575062" pageindex="0" name="index" pp="0" cp="0"><body bgimage="C:\Program Files\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgpreview="C:\Program Files\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgp="0"><Component type="3" id="image1" zorder="0" filename="image8084421" left="0" top="0" width="1119" height="190" originwidth="800" originheight="500" src="D:\AHMAD\photo\67572.jpg" previewfile="D:\AHMAD\photo\67572.jpg"/><Component type="2" id="text1" zorder="1" filename="text8172921" left="388" top="36" width="320" height="119" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" style="font-size:48px;"&gt;&lt;B&gt;الورشة الفنية لصيانة الاجهزة الكهرابية&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" class="ws36"&gt;&lt;B&gt;الورشة الفنية لصيانة الاجهزة الكهرابية&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoJAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29s
+b3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQg
+QWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxl
+B09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRS
+ZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrH
+4ebR1Mkgx+Hd5O3JIOHV7cfkySDH4cfM5dLJIMfh3+XRx8jtyQ0K
+</rvf></Component><Component type="7" id="marquee1" zorder="2" filename="marquee8301437" width="1120" height="30" html="" left="0" top="162" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" style="font-size:19px;"&gt;&lt;B&gt;قسم خاص لصيانة الشاشات و اليوبياسات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" class="ws14"&gt;&lt;B&gt;قسم خاص لصيانة الشاشات و اليوبياسات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoJAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29s
+b3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQg
+QWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxl
+B09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRS
+ZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQre
+0+MgzsfVIOHV7cfkySDH4dTH1MfKIOYgx+Ht5sjtx9PHyg0K
+</rvf></Component><Component type="3" id="image2" zorder="3" filename="image8819328" left="70" top="224" width="413" height="364" originwidth="494" originheight="435" src="D:\AHMAD\photo\201.png" previewfile="D:\AHMAD\photo\201.png" linkurl="page://p10722171" lp="0"/><Component type="3" id="image3" zorder="4" filename="image8828546" left="57" top="713" width="398" height="398" originwidth="600" originheight="600" src="D:\AHMAD\photo\1500w-600x600.png" previewfile="D:\AHMAD\photo\1500w-600x600.png"/><Component type="3" id="image4" zorder="5" filename="image8847156" left="708" top="818" width="373" height="191" originwidth="500" originheight="248" src="D:\AHMAD\photo\S9020DVD_Mirror_500wide.png" previewfile="D:\AHMAD\photo\S9020DVD_Mirror_500wide.png"/><Component type="3" id="image5" zorder="6" filename="image10059859" left="666" top="256" width="434" height="339" originwidth="1024" originheight="801" src="D:\AHMAD\photo\aaa.png" previewfile="D:\AHMAD\photo\aaa.png" linkurl="page://p10722500" lp="0"/><Component type="2" id="text2" zorder="7" filename="text10105453" left="107" top="617" width="337" height="62" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" style="font-size:35px;"&gt;&lt;B&gt;شاشات LCD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" class="ws26"&gt;&lt;B&gt;شاشات LCD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAhoFU3R5bGULBmZzQm9sZAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrUx9THyiBMQ0QNCg==
+</rvf></Component><Component type="2" id="text3" zorder="8" filename="text10171359" left="705" top="604" width="369" height="80" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" style="font-size:35px;"&gt;&lt;B&gt;أجهزة كمبيوتر محمول&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" class="ws26"&gt;&lt;B&gt;أجهزة كمبيوتر محمول&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAhoFU3R5bGULBmZzQm9sZAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrDzOXSySDf48jt5srRIOPN
+4+bhDQo=
+</rvf></Component><Component type="2" id="text4" zorder="9" filename="text10232187" left="117" top="1056" width="245" height="75" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" style="font-size:35px;"&gt;&lt;B&gt;UPS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" class="ws26"&gt;&lt;B&gt;UPS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAhoFU3R5bGULBmZzQm9sZAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpVUFMNCg==
+</rvf></Component><Component type="2" id="text5" zorder="10" filename="text10670218" left="708" top="1036" width="360" height="61" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" style="font-size:35px;"&gt;&lt;B&gt;رسيفرات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" class="ws26"&gt;&lt;B&gt;رسيفرات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAhoFU3R5bGULBmZzQm9sZAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrR0+3d0cfKDQo=
+</rvf></Component></body></page><page id="p10722171" pageindex="1" name="page2" pp="0" cp="0"><body bgimage="C:\Program Files\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgpreview="C:\Program Files\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgp="0"><Component type="3" id="image1" zorder="0" filename="image10722343" left="0" top="0" width="1119" height="190" originwidth="800" originheight="500" src="D:\AHMAD\photo\67572.jpg" previewfile="D:\AHMAD\photo\67572.jpg"/><Component type="2" id="text1" zorder="1" filename="text10722328" left="388" top="36" width="320" height="119" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" style="font-size:48px;"&gt;&lt;B&gt;الورشة الفنية لصيانة الاجهزة الكهرابية&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" class="ws36"&gt;&lt;B&gt;الورشة الفنية لصيانة الاجهزة الكهرابية&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoJAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29s
+b3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQg
+QWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxl
+B09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRS
+ZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrH
+4ebR1Mkgx+Hd5O3JIOHV7cfkySDH4cfM5dLJIMfh3+XRx8jtyQ0K
+</rvf></Component><Component type="7" id="marquee1" zorder="2" filename="marquee10722312" width="1120" height="30" html="" left="0" top="162" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" style="font-size:19px;"&gt;&lt;B&gt;قسم خاص لصيانة الشاشات و اليوبياسات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" class="ws14"&gt;&lt;B&gt;قسم خاص لصيانة الشاشات و اليوبياسات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoJAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29s
+b3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQg
+QWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxl
+B09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRS
+ZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQre
+0+MgzsfVIOHV7cfkySDH4dTH1MfKIOYgx+Ht5sjtx9PHyg0K
+</rvf></Component><Component type="3" id="image3" zorder="3" filename="image10953406" left="25" top="192" width="550" height="483" originwidth="494" originheight="435" src="D:\AHMAD\photo\201.png" previewfile="D:\AHMAD\photo\201.png"/><Component type="3" id="image2" zorder="4" filename="image10966359" left="650" top="682" width="433" height="360" originwidth="740" originheight="617" src="D:\AHMAD\photo\5.png" previewfile="D:\AHMAD\photo\5.png"/><Component type="2" id="text3" zorder="5" filename="text11000078" left="640" top="1076" width="470" height="130" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" style="font-size:64px;"&gt;&lt;B&gt;sony&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" class="ws48"&gt;&lt;B&gt;sony&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr9AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhFNaWNyb3NvZnQgUGhhZ3NQYQRTaXplAjAFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpzb255DQo=
+</rvf></Component><Component type="3" id="image4" zorder="6" filename="image11045406" left="32" top="718" width="505" height="338" originwidth="3000" originheight="2000" src="D:\AHMAD\photo\my-full-hd-k6300-ua55k6300akxxm-001-front-black.png" previewfile="D:\AHMAD\photo\my-full-hd-k6300-ua55k6300akxxm-001-front-black.png"/><Component type="2" id="text4" zorder="7" filename="text11107734" left="85" top="1095" width="409" height="96" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" style="font-size:64px;"&gt;&lt;B&gt;samsung&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" class="ws48"&gt;&lt;B&gt;samsung&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr9AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhFNaWNyb3NvZnQgUGhhZ3NQYQRTaXplAjAFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpzYW1zdW5nDQo=
+</rvf></Component><Component type="3" id="image5" zorder="8" filename="image11194171" left="38" top="1188" width="479" height="479" originwidth="1000" originheight="1000" src="D:\AHMAD\photo\Led-Smart.png" previewfile="D:\AHMAD\photo\Led-Smart.png"/><Component type="2" id="text5" zorder="9" filename="text11212234" left="18" top="1625" width="510" height="110" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" style="font-size:64px;"&gt;&lt;B&gt;LG&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" class="ws48"&gt;&lt;B&gt;LG&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr9AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhFNaWNyb3NvZnQgUGhhZ3NQYQRTaXplAjAFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpMRw0K
+</rvf></Component><Component type="3" id="image6" zorder="10" filename="image11402890" left="622" top="1293" width="453" height="296" originwidth="2139" originheight="1400" src="D:\AHMAD\photo\vivax-led-tv-32le60-slika.png" previewfile="D:\AHMAD\photo\vivax-led-tv-32le60-slika.png"/><Component type="2" id="text6" zorder="11" filename="text11444828" left="637" top="1626" width="428" height="121" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" style="font-size:64px;"&gt;&lt;B&gt;VIVAX&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" style="font-size:64px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" class="ws48"&gt;&lt;B&gt;VIVAX&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" class="ws48"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr9AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhFNaWNyb3NvZnQgUGhhZ3NQYQRTaXplAjAFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpWSVZBWA0KDQo=
+</rvf></Component><Component type="8" id="js1" zorder="12" filename="js11642218" jsname="Wave Text" jspaser="1" usediv="1" script="&lt;script language=&quot;JavaScript1.2&quot;&gt;
+
+//configure message
+message=&quot;$text$$text$&quot;
+//animate text in NS6? (0 will turn it off)
+ns6switch=1
+
+var ns6=document.getElementById&amp;&amp;!document.all
+
+mes=new Array();
+mes[0]=-1;
+mes[1]=-4;
+mes[2]=-7;
+mes[3]=-10;
+mes[4]=-7;
+mes[5]=-4;
+mes[6]=-1;
+num=0;
+num2=0;
+txt=&quot;&quot;;
+
+function jump0(){
+if (ns6&amp;&amp;!ns6switch){
+jump.innerHTML=message
+return
+}
+if(message.length &gt; 6){
+for(i=0; i != message.length;i++){
+txt=txt+&quot;&lt;span style='position:relative;' id='n&quot;+i+&quot;'&gt;&quot;+message.charAt(i)+&quot;&lt;/span&gt;&quot;};
+jump.innerHTML=txt;
+txt=&quot;&quot;;
+jump1a()
+}
+else{
+//alert(&quot;Your message is too short. 7 characters at least!&quot;)
+}
+}
+
+function jump1a(){
+nfinal=(document.getElementById)? document.getElementById(&quot;n0&quot;) : document.all.n0
+nfinal.style.left=-num2;
+if(num2 != 9){
+num2=num2+3;
+setTimeout(&quot;jump1a()&quot;,50)
+}
+else{
+jump1b()
+}
+}
+
+function jump1b(){
+nfinal.style.left=-num2;
+if(num2 != 0){num2=num2-3;
+setTimeout(&quot;jump1b()&quot;,50)
+}
+else{
+jump2()
+}
+}
+
+function jump2(){
+txt=&quot;&quot;;
+for(i=0;i != message.length;i++){
+if(i+num &gt; -1 &amp;&amp; i+num &lt; 7){
+txt=txt+&quot;&lt;span style='position:relative;top:&quot;+mes[i+num]+&quot;'&gt;&quot;+message.charAt(i)+&quot;&lt;/span&gt;&quot;
+}
+else{txt=txt+&quot;&lt;span&gt;&quot;+message.charAt(i)+&quot;&lt;/span&gt;&quot;}
+}
+jump.innerHTML=txt;
+txt=&quot;&quot;;
+if(num != (-message.length)){
+num--;
+setTimeout(&quot;jump2()&quot;,50)}
+else{num=0;
+setTimeout(&quot;jump0()&quot;,50)}
+}
+&lt;/script&gt;
+
+&lt;font %FontName% %FontSize% %FontColor%&gt;&lt;div id=&quot;jumpx&quot;&gt;&lt;/div&gt;&lt;/font&gt;
+
+&lt;script&gt;
+if (document.all||document.getElementById){
+jump=(document.getElementById)? document.getElementById(&quot;jumpx&quot;) : document.all.jumpx
+jump0()
+}
+&lt;/script&gt;" previewdata="R0lGODlhZwAeAPcAAGqGxLjH6MfS8bjH6sbQ8aa+7avC887d+8DN78jV98fU9tHb+8rW9f/////3
+mcLP8cPQ9L7J7MTP8KGy4MXP8r/J7cPR7q6+7sTO8cvW9sff/8fa/q/D88nW+KbE5qXD5bfG8KfE
+6rTB8MvY+8rW9sTR+cDP9MTQ9YWc0b/M8LjG7snV873M8LjG673N7bDC8r7K8Iam1bvH7L7J7b7N
+77jH62F/v6qx4IKZz0dpscXP809wtqq55Iej1J2u3IWd0Iik0svV9YOZz7vI61h3urjH6crU9MXQ
+8tHc+7fG78LQ7sDO8MXS8snT8q3B7cvV9qnA7bfG7r/J7r/N78rX+KjD5qnD5Yaj0KnE6Fh4u8PP
+8brK6qat1YWizmB9vsPP8GJ/v6ar2sHP8anC6I6l1L/K7mqHw1BxtnOOyISc0Vl4urzI7a675IOb
+0EdpssrX97K+58HQ7qqv2szV9cbQ8srT8Y2j1o6j1aCx38vV9KjC6Yyi1XyVzaKp2bbC6ajE6LPA
+6YWj14qhy4uizIyjzq275Kqw34Oi1Y2h0oSi1MTP88TP9I6ky6+/5quy36Cz3WmEwvPtq5On132V
+zIugwHOOx4il1J2w3Yak0Ymfx6m546Oq04ii1aeu2oep16Cy3oug08vMxbHC5aeu25es2Kit26yy
+17K306i546ev3X2UzaWq3KSo1aWt16yy1qqx2rnI7Kev3p+y36qw2qav3ait2r/K76Kq1vPtqqyz
+46Kp1aSp16So18rU86mu3aqu26mw3L7J7nKNx09wtXqSyqes2dbWxaiv3per2tfWw7LA6LXC6Kmv
+3nuUzKOq1fXuqcnY+WuGxLLA52GAvsTP8sXS8cTO8ll4u5yu28je/5Sn2LjH7NDPx3qSy5eq2nSO
+yLK41KKo3MzNx6ev36Cx4L3A06Wp1r7Czqmw4qKq2MnT8ajD6bDA6Kar2aSp2L/M78zV9MvU8rDB
+8srT8MrV8arE6bfG7anC5qnB6LvI6srV8svU87XC74ek0D5iravA5iH5BAAAAAAALAAAAABnAB4A
+QAj/ABlBgeLECZx/CBMqXMiwocOHEBXCORixYsOCAxkBUcCxo8ePHVeFGRlGn8mTKFOqXMmypcuX
+K1fIlAnkEIubOFkAc+CAViyeCHXdRECUaAOjRZMiaOZvh7A9TYkQBeCPyA5/bRA0aupvD1F/NpQW
+vYSVaBt/l5JCzeGvUVEb/hBMmTslhd13hzhx2Mu3r9++8gILHky4sOHDiBMrPvyisePGnHp0mEy5
+suXK8DJr3sy5s+fPoEOL/jyndJDTQZ70SFSitevW6LjxdPCvdYPWGHJjKNagXZgGXHTrVuUPDwY3
+xTH4u5b7jj9/yjCg8OcNgwx/0ZQ/f657+nZ/YLw//0cxHQUGMMW/PydnjZoiRYsWJerSon79f8Z4
+dqrPLJn++gEEGGADCDUg4IEIJqjgggw26CCCRUQYYReIFGDhhRhmiKEBHHbo4YcghiiiARqWqOEF
+KKao4oosXsChhYhkssGMNNZoY40M5Kjjjjz26OOPDGQg5JBEFkkkCUgmqeSSSb7hJBVQUgFNJl2A
+ZCVI82Sp5ZZcdunll2CGKeaXdZSpThNoNtGFJRC06eabcELgiCMN8GIOKw384gsBfPbp55+ABiro
+oIQWyicdiB6hqKKWeOLCo5A+aooDuIDjQCj/9NFHOg04s8kmDVgwSitccGHBqahasIU/lZDhzxlm
+uP9Kiqr+mJGDGqeqkYMFZvizhQWv/vADGala8Ig/P5z6A6vCimLsczn8euo0/ligxLVKxKFtHJ4A
+AcO34Boy27i0fduAHOgSGMG67La77jLPFRLBMP5IEgEo/uCwrhf+yIuDP5Cwq5672OS77r/b4QBJ
+vREQY3AE/EYww8QUzxAMEDGAoPHGHHfMsT0ghyzyyCSXbPLJKKdschIsR+FyFEnEMIgHNNds8802
+36Pzzjz37PPPQAct9NBAW2G0FVUkXcUglGjg9NNQRw31AVRXbfXVWGet9QELdO3112CHLfbYCyBh
+NhJUZ6MBJT2M4PbbcMcN9z5012333XjnrffefPf/rXcegKf2xBMZ9HBFAognrvjiisfj+OOQRy75
+5JRXbvnllNfdixGcG3FFP4yHzjg9pJdu+umop6766qy3rjpKM63QDxBx1g5nOA3kvosAvPfu++/A
+By/88MQXH3w1TCTPBMYnNO+88ws1n0sDN1BgfS0NlGI9F9Z3bz0PE3wfPgXgW7/GBOODv4b16FOA
+/vvdA/I++jzI/7795k8A/vwTrKHD/wCMQQxMQMACEnAc4/qHAfuQuwa4QwK8aUAxJEDBCkoAGf5A
+gSbGs8FJUDAa45GANPzxDQk45w4SAI8FLfiJDFJwOp+woK6c40EKokcCX8jhF7TAQy0IkAZADCIN
+/1LxDAeAIxVAqUDubvGAJj6gAU6MohSzkAU0nAENbuCDP2DxADv4ww5o8Ac7HpCGL/oDAE30hxts
+YAM+SFEW/khDE8uYBTaioolZ8IcbnQiXB4jhj2JYgiCXEIMe2OWQKTBEOXgijnNEwgGR+IddgNHA
+X1RAiQ24pCY3qY3ngIINz+lGBfzQFCEIoSqXJMJz/HDJqvjglZusgA/8IYRLnlIIr2SDH3KwA1B6
+QZP8qoAUhimFMhjTFoaTgTKViRCeuAIYs3gFT06ROxnk45r5IBA2t8nNbnrzm+AMpzi/OYRylvMK
+mFCBOtX5jxu48wbrdKchjqHOAdjznrn7xz33yYzPfvrznwANqEDtWYOCGrQG28BEIETA0IY69KEO
+5YdEJ0rRilr0ohjNqEY3ylGKBoIQIQipSEdK0pHi46QoTalKV8rSlrr0pTBt6RhmOgY92HQdhBDE
+B3bK0576tKf1CKpQh0rUohr1qEhNqlKPioWmYuEPUP2DIPpB1apa9apYzapWt8rVrnr1q14NCAA7
+" paramname="$text$$text$" paramdata="Screen LCD" jsfontname="Verdana" jsfontsize="7" jsfontcolor="" previewfile="C:\Users\AHMADA~1\AppData\Local\Temp\Web Page Maker\docO37QT\jsQU1D4.gif" width="104" height="31" left="713" top="400"/></body></page><page id="p10722500" pageindex="2" name="page3" pp="0" cp="0"><body bgimage="C:\Program Files\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgpreview="C:\Program Files\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgp="0"><Component type="3" id="image1" zorder="0" filename="image10722671" left="0" top="0" width="1119" height="190" originwidth="800" originheight="500" src="D:\AHMAD\photo\67572.jpg" previewfile="D:\AHMAD\photo\67572.jpg"/><Component type="2" id="text1" zorder="1" filename="text10722656" left="388" top="36" width="320" height="119" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" style="font-size:48px;"&gt;&lt;B&gt;الورشة الفنية لصيانة الاجهزة الكهرابية&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" class="ws36"&gt;&lt;B&gt;الورشة الفنية لصيانة الاجهزة الكهرابية&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoJAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29s
+b3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQg
+QWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxl
+B09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRS
+ZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrH
+4ebR1Mkgx+Hd5O3JIOHV7cfkySDH4cfM5dLJIMfh3+XRx8jtyQ0K
+</rvf></Component><Component type="7" id="marquee1" zorder="2" filename="marquee10722640" width="1120" height="30" html="" left="0" top="162" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" style="font-size:19px;"&gt;&lt;B&gt;قسم خاص لصيانة الشاشات و اليوبياسات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" class="ws14"&gt;&lt;B&gt;قسم خاص لصيانة الشاشات و اليوبياسات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoJAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29s
+b3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQg
+QWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxl
+B09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRS
+ZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQre
+0+MgzsfVIOHV7cfkySDH4dTH1MfKIOYgx+Ht5sjtx9PHyg0K
+</rvf></Component><Component type="3" id="image5" zorder="3" filename="image10722578" left="21" top="223" width="587" height="459" originwidth="1024" originheight="801" src="D:\AHMAD\photo\aaa.png" previewfile="D:\AHMAD\photo\aaa.png" selected="1"/><Component type="2" id="text3" zorder="4" filename="text10722546" left="567" top="336" width="392" height="80" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" style="font-size:64px;"&gt;&lt;B&gt;laptop&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Microsoft PhagsPa" class="ws48"&gt;&lt;B&gt;laptop&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr9AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhFNaWNyb3NvZnQgUGhhZ3NQYQRTaXplAjAFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpsYXB0b3ANCg==
+</rvf></Component><Component type="3" id="image2" zorder="5" filename="image12362765" left="145" top="750" width="463" height="351" originwidth="1358" originheight="1029" src="D:\AHMAD\photo\laptop-png-laptop-notebook-png-image-1358.png" previewfile="D:\AHMAD\photo\laptop-png-laptop-notebook-png-image-1358.png"/></body></page><page id="p10722828" pageindex="3" name="page4" pp="0" cp="0"><body bgimage="C:\Program Files\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgpreview="C:\Program Files\Web Page Maker\Resource\background\backgroud1\bg101.gif" bgp="0"><Component type="3" id="image1" zorder="0" filename="image10723000" left="0" top="0" width="1119" height="190" originwidth="800" originheight="500" src="D:\AHMAD\photo\67572.jpg" previewfile="D:\AHMAD\photo\67572.jpg"/><Component type="2" id="text1" zorder="1" filename="text10722984" left="388" top="36" width="320" height="119" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" style="font-size:48px;"&gt;&lt;B&gt;الورشة الفنية لصيانة الاجهزة الكهرابية&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" class="ws36"&gt;&lt;B&gt;الورشة الفنية لصيانة الاجهزة الكهرابية&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoJAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29s
+b3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQg
+QWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxl
+B09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRS
+ZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrH
+4ebR1Mkgx+Hd5O3JIOHV7cfkySDH4cfM5dLJIMfh3+XRx8jtyQ0K
+</rvf></Component><Component type="7" id="marquee1" zorder="2" filename="marquee10722968" width="1120" height="30" html="" left="0" top="162" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" style="font-size:19px;"&gt;&lt;B&gt;قسم خاص لصيانة الشاشات و اليوبياسات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Sakkal Majalla" class="ws14"&gt;&lt;B&gt;قسم خاص لصيانة الشاشات و اليوبياسات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoJAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29s
+b3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQg
+QWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxl
+B09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRS
+ZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQre
+0+MgzsfVIOHV7cfkySDH4dTH1MfKIOYgx+Ht5sjtx9PHyg0K
+</rvf></Component><Component type="3" id="image2" zorder="3" filename="image10722953" left="70" top="224" width="413" height="364" originwidth="494" originheight="435" src="D:\AHMAD\photo\201.png" previewfile="D:\AHMAD\photo\201.png" selected="1"/><Component type="3" id="image3" zorder="4" filename="image10722937" left="57" top="713" width="398" height="398" originwidth="600" originheight="600" src="D:\AHMAD\photo\1500w-600x600.png" previewfile="D:\AHMAD\photo\1500w-600x600.png"/><Component type="3" id="image4" zorder="5" filename="image10722921" left="733" top="819" width="385" height="191" originwidth="500" originheight="248" src="D:\AHMAD\photo\S9020DVD_Mirror_500wide.png" previewfile="D:\AHMAD\photo\S9020DVD_Mirror_500wide.png"/><Component type="3" id="image5" zorder="6" filename="image10722906" left="692" top="257" width="434" height="339" originwidth="1024" originheight="801" src="D:\AHMAD\photo\aaa.png" previewfile="D:\AHMAD\photo\aaa.png"/><Component type="2" id="text2" zorder="7" filename="text10722890" left="108" top="610" width="337" height="62" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" style="font-size:35px;"&gt;&lt;B&gt;شاشات LCD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" class="ws26"&gt;&lt;B&gt;شاشات LCD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAhoFU3R5bGULBmZzQm9sZAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrUx9THyiBMQ0QNCg==
+</rvf></Component><Component type="2" id="text3" zorder="8" filename="text10722875" left="741" top="602" width="392" height="80" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" style="font-size:35px;"&gt;&lt;B&gt;أجهزة كمبيوتر محمول&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" class="ws26"&gt;&lt;B&gt;أجهزة كمبيوتر محمول&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAhoFU3R5bGULBmZzQm9sZAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrDzOXSySDf48jt5srRIOPN
+4+bhDQo=
+</rvf></Component><Component type="2" id="text4" zorder="9" filename="text10722859" left="117" top="1056" width="245" height="75" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" style="font-size:35px;"&gt;&lt;B&gt;UPS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" class="ws26"&gt;&lt;B&gt;UPS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAhoFU3R5bGULBmZzQm9sZAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpVUFMNCg==
+</rvf></Component><Component type="2" id="text5" zorder="10" filename="text10722843" left="688" top="1039" width="484" height="61" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" style="font-size:35px;"&gt;&lt;B&gt;رسيفرات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Sakkal Majalla" class="ws26"&gt;&lt;B&gt;رسيفرات&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5TYWtrYWwgTWFqYWxsYQRTaXplAhoFU3R5bGULBmZzQm9sZAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQrR0+3d0cfKDQo=
+</rvf></Component></body></page></site>
